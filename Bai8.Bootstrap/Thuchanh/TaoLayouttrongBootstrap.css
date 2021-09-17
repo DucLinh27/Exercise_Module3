@@ -1,0 +1,71 @@
+body{
+    font-family: Arial, Tahoma;
+
+
+}
+/*.header{
+    height: 100px;
+    background-color: steelblue;
+    border: 1px solid white;
+    margin-bottom:5px;
+    text-align: left;*/
+header {
+    position: relative;
+}
+.shopping-mall {
+    margin-top: auto;
+    font-variant: small-caps;
+}
+.shopping-mall>h1 {
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+    width: 49%;
+}
+.shopping-mall>h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+    font-size: small;
+}
+
+/*.nav{
+    background-color: lightslategray;
+    width: 1500px;
+    height: 50px;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}*/
+/*.left{
+    width: 70%;
+    min-height: 610px;
+    border: 1px solid #CDCDCD;
+    float:left;
+    background-color: white;
+    margin-bottom: 5px;
+
+
+
+}*/
+
+/*.right{
+    width: 30%;
+    min-height: 610px;
+    border: 1px solid #CDCDCD;
+    float:right;
+    margin-bottom: 5px;
+    background-color: white;
+}*/
+
+.footer{
+    height: 50px;
+    clear: both;
+    border: 1px solid #CDCDCD;
+    background-color: white;
+}

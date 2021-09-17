@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2819e4f4-4ef9-42ff-b2ba-d57f52148dc2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/userfullibs/greeter/impl/Greeter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/userfullibs/greeter/impl/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/userfullibs/greeter/impl/HelloWorldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/build.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$IE41AWB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$IS1SG23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R0UERTS.Cau_truc_dieu_kien_2/Baitap/.idea/Baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R0UERTS.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/BaitapMayTinhdongian.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R0UERTS.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/Baitap_Switch-case.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R0UERTS.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/Baitap_Tinhchisocannangcuacothe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R3GW9SU/GAME.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R5W945K/X.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$R9RALUK/QuanLyNongTrai.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RAZ30D9/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RBBEL5U/LINH.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RBSMXG3/.idea/Hoc C Sharp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RCDTXWB/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RCQP0NE.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RCQP0NE.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/BaiTap_Ung_dung_may_tinh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RCQP0NE.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/Baitap_Chuyen_doi_tien_te.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RE41AWB.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$REUH6IQ/Baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RGDTL89/Bai Tap 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RGX9KMT/HCN.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RHKMPUV/VoLamTruyenKy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RHZ4ZQJ/Methob.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RJ5SSMY/vdoop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RKARERV/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RKQZES8/QLSV.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RL6AFEY/thuattoan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RL9OV9P/OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RL9OV9P/duclinh/duclinh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RLB02DQ/Simple_login.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RLRED3F/oop.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RMK2PL6/.idea/conversation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RNTKRFF/BTclb2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RO4C09M.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/BaitapSinhBancuuchuong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$ROHATCL/HTML/BaiTap/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$ROHATCL/HTML/BaiTap/BaiTapForm/.idea/BaiTapForm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$ROHATCL/HTML/BaiTap/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$ROHATCL/HTML/ThucHanh/.idea/ThucHanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RP3Y1S9/vidu.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RS1SG23.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RT2W6VE/Chuoi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RTWU45O.idea/Writing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RU9SOHZ/.idea/ThucHanh2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RUUP3YA/.idea/untitled1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RX5H9DB/.idea/Css.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RYHH43V/.idea/HTML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BT2X/BT2X.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../BTclb2/BTclb2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapHienthicacsonguyentodautien/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/BaitapSinhBancuuchuong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/sfs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/baitap4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/Thuchanh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh5].html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai13.Mang2/BaiTap/Baitaptictactoe/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai13.Mang2/BaiTap/Baitaptudien/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai2. Nhap môn/Bài tập/chungchi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai2. Nhap môn/Bài tập/chungchi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán chuyển đổi tiền tệ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán có cấu trúc điều kiện.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tìm giá trị lớn nhất trong 3 số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tìm giá trị lớn nhất trong một dãy số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tính điểm trung bình.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/BaiTap/Untitled Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/ThucHanh/Thực HànhThuật toán game đoán số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai3.Magia_và_luudo/ThucHanh/Thực hành Thuật toán chuyển đổi nhiệt độ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap Tạo Form Cơ Bản1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/BaiTapForm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/Baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoFormNangCao1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/TaoFormCoBan22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/TaogiaodienFormdangkinguoidung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/img" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/ThucHanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/BÀI THỰC HANH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/Taoformcoban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai4.Git and HTML/HTML/ThucHanh/Thực Hành Tạo Form tìm kiếm GOOGLE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai3_Tinhdientichhinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai4_Tinhchuvihinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/BaiTap_Ung_dung_may_tinh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/baitap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/Baitap_Chuyen_doi_tien_te.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/Baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/Baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/BaitapMayTinhdongian.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/Baitap_Switch-case.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/Baitap_Tinhchisocannangcuacothe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Casestudy/Baitap/Yeucau1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Casestudy/Baitap/Yeucau2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Chứng Chỉ/chungchi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Chứng Chỉ/chungchi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../JAVA/.idea/JAVA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bai12.JDBCvaCRUD/Baitap/BaitapCapnhatUsers/src/dao/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bai12.JDBCvaCRUD/Baitap/BaitapCapnhatUsers/src/dao/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bootstrap/.idea/bootstrap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bootstrap/BTclb2/BTclb2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../bootstrap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../chucmungsn/chucmungsn.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../demo/demo.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DemoGradle" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DemoGradle" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DemoGradle" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="DemoGradle" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1xRjrWCXrNiKRM1QLBAKeFCG1SX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ThuchanhGradle" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TranDucLinh\TranDucLinh1\TranDucLinh\Module3\Bai14.Packing_Dependence\Thuchanh\build\libs" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tests in 'DemoGradle'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'DemoGradle'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2819e4f4-4ef9-42ff-b2ba-d57f52148dc2" name="Default Changelist" comment="" />
+      <created>1630324993490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630324993490</updated>
+      <workItem from="1630324995512" duration="3170000" />
+      <workItem from="1630493197420" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="915" y="76" key="#com.intellij.ide.util.MemberChooser" timestamp="1630325272256">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="915" y="76" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1630325272256" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1630493450494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1630493450494" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1630464059444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1630464059444" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1630464059444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1630464059444" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1630464059444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1630464059444" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1630464059444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1630464059444" />
+  </component>
+</project>

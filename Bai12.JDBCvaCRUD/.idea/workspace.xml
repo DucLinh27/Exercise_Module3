@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c80ba3f5-dc14-44fb-86a2-4d967e82caf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Summit2/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/artifacts/UngdungCalculator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/artifacts/UngdungCalculator_war_exploded/WEB-INF/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/artifacts/UngdungCalculator_war_exploded/WEB-INF/classes/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/artifacts/UngdungCalculator_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/production/UngdungCalculator/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/production/UngdungCalculator/CalculatorServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/src/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/artifacts/BaitapUngdungquanlisanpham_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/libraries/taglibs_standard_impl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/BaitapUngdungquanlisanpham.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/bphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/iphone.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/nokia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/oppo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/samsung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/img/xiaomi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/controller/ProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/model/bean/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/model/reponsitory/IProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/model/reponsitory/ProductReponstoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/model/service/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/classes/model/service/ProductServicelmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/eror-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/production/BaitapUngdungquanlisanpham/controller/ProductServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/production/BaitapUngdungquanlisanpham/model/reponsitory/IProductRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/production/BaitapUngdungquanlisanpham/model/reponsitory/ProductReponstoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/production/BaitapUngdungquanlisanpham/model/service/IProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/production/BaitapUngdungquanlisanpham/model/service/ProductServicelmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/controller/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/model/bean/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/model/reponsitory/IProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/model/reponsitory/ProductReponstoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/model/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/src/model/service/ProductServicelmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/WEB-INF/eror-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/product/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/product/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/product/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/product/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/artifacts/ThuchanhMVC_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/libraries/taglibs_standard_impl_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/ThuchanhMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/WEB-INF/classes/controller/CustomerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/WEB-INF/classes/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/WEB-INF/classes/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/WEB-INF/classes/service/CustomerServicelmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/artifacts/ThuchanhMVC_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/production/ThuchanhMVC/controller/CustomerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/production/ThuchanhMVC/model/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/production/ThuchanhMVC/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/out/production/ThuchanhMVC/service/CustomerServicelmpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/src/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/src/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/src/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/src/service/CustomerServicelmpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/customer/delete.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/customer/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/customer/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/customer/view.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/src/controller/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/src/dao/IUserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/src/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/src/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/web/WEB-INF/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/web/user/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/web/user/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thuchanh/web/user/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai8.Bootstrap/Baitap/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/artifacts/ProductDisscountCaculator_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/out/artifacts/ProductDisscountCaculator_war_exploded/WEB-INF/classes/DiscountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/out/artifacts/ProductDisscountCaculator_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/out/artifacts/ProductDisscountCaculator_war_exploded/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/out/production/ProductDisscountCaculator/DiscountServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/src/DiscountServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thucahnhhienthithoigianhethong/.idea/Thucahnhhienthithoigianhethong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thucahnhhienthithoigianhethong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/Thuchanhhienthithoigianhethong.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/Ungdungchuyendoitientedongian.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BTclb2/BTclb2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapHienthicacsonguyentodautien/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapLuyenTapvonglap1/baitap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/BaitapSinhBancuuchuong.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/BaitapSinhBancuuchuong/sfs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/Bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai11.Cautrucvonglap2/Baitap/Baitapluyentapvonglap2/baitap4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/Thuchanh.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh5].html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai12.Mang/ThucHanh/Taovathaotacvoimang/thuchanh6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptictactoe/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai13.Mang2/BaiTap/Baitaptudien/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai2. Nhap môn/Bài tập/chungchi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai2. Nhap môn/Bài tập/chungchi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán chuyển đổi tiền tệ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán có cấu trúc điều kiện.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tìm giá trị lớn nhất trong 3 số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tìm giá trị lớn nhất trong một dãy số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Mô tả thuật toán tính điểm trung bình.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Untitled Diagram.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/BaiTap/Untitled Diagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/ThucHanh/Thực HànhThuật toán game đoán số.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai3.Magia_và_luudo/ThucHanh/Thực hành Thuật toán chuyển đổi nhiệt độ.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap Tạo Form Cơ Bản1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/BaiTapForm.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapForm/Baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoBangNangCao2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/BaiTapTaoFormNangCao1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoBangDongian1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaoFormCoBan22.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/TaogiaodienFormdangkinguoidung.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/img" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/untitled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/BaiTap/untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/ThucHanh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/BÀI THỰC HANH.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/Taoformcoban.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai4.Git and HTML/HTML/ThucHanh/Thực Hành Tạo Form tìm kiếm GOOGLE.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/BaiTap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai3_Tinhdientichhinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTAp_Bien_Kieudulieu_ToanTu/Bai4_Tinhchuvihinhtron.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/BaiTap_Ung_dung_may_tinh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/BaiTap_Ung_dung_may_tinh/baitap2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/Baitap_Chuyen_doi_tien_te.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai7.Bien_Kieudulieu_ToanTu/BaiTap/Baitap_Chuyen_doi_tien_te/Baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/Baitap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/BaitapMayTinhdongian.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/BaitapMayTinhdongian/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/Baitap_Switch-case.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Switch-case/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/Baitap_Tinhchisocannangcuacothe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Baitap_Tinhchisocannangcuacothe/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien01/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Bai9.Cau_truc_dieu_kien_2/Baitap/Luyentapcautrucdieukien02/bai9.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chứng Chỉ/chungchi.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Chứng Chỉ/chungchi2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/commons/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/commons/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/controllers/MainCotroller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/controllers/MainCotroller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/models/ExtraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/models/ExtraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/models/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/models/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/models/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/models/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/models/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/models/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../FuramaResort/src/models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../FuramaResort/src/models/Villa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module2/src/baitap1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/WEB-INF/classes/model/CustomersServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/WEB-INF/classes/model/CustomersServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/WEB-INF/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/WEB-INF/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/artifacts/Hienthidanhsachkhachhang_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/production/Hienthidanhsachkhachhang/model/CustomersServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/out/production/Hienthidanhsachkhachhang/model/CustomersServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/src/model/CustomersServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/src/model/CustomersServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/web/WEB-INF/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/web/WEB-INF/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Hienthidanhsachkhachhang/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Thuchanh/Ungdungchuyendoitiente/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Thuchanh/Ungdungchuyendoitiente/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thucahnhhienthithoigianhethong/.idea/Thucahnhhienthithoigianhethong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../$RECYCLE.BIN/S-1-5-21-12344281-2875354940-2098714688-1003/$RBX9ZXU/.idea/UngDungTuDienDonGian.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thucahnhhienthithoigianhethong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thucahnhhienthithoigianhethong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thucahnhhienthithoigianhethong/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thucahnhhienthithoigianhethong/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thucahnhhienthithoigianhethong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thucahnhhienthithoigianhethong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thucahnhhienthithoigianhethong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/artifacts/Bai9_Web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/artifacts/Bai9_Web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/Bai9.Web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/Bai9.Web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.annotation.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.ejb.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.ejb.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.jms.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.jms.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.persistence.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.persistence.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.resource.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.resource.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.servlet.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.servlet.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.servlet.jsp.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/lib/javax.transaction.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/classes/META-INF/Bai9.Web.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/classes/META-INF/Bai9.Web.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/classes/controller/Login1Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/classes/controller/Login1Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/login/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/login/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/artifacts/Bai9_Web_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/production/Bai9.Web/META-INF/Bai9.Web.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/production/Bai9.Web/META-INF/Bai9.Web.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/out/production/Bai9.Web/controller/Login1Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/out/production/Bai9.Web/controller/Login1Servlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/src/controller/Login1Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/src/controller/Login1Servlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/web/WEB-INF/login/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/web/WEB-INF/login/login.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthidangnhap/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthidangnhap/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/.idea/artifacts/Thuchanhhienthithoigianhethong_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/.idea/artifacts/Thuchanhhienthithoigianhethong_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/Thuchanhhienthithoigianhethong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/UngdungCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/WEB-INF/classes/ServerTimeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/WEB-INF/classes/ServerTimeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/out/artifacts/UngdungCalculator_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/out/artifacts/Thuchanhhienthithoigianhethong_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/out/production/Thuchanhhienthithoigianhethong/ServerTimeServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/out/production/Thuchanhhienthithoigianhethong/ServerTimeServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/src/ServerTimeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/src/ServerTimeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai10.JSP&amp;JSTL/Baitap/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Thuchanhhienthithoigianhethong/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Thuchanhhienthithoigianhethong/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/.idea/artifacts/Ungdungchuyendoitientedongian_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/.idea/artifacts/Ungdungchuyendoitientedongian_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Thuchanh/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/Ungdungchuyendoitientedongian.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Baitap/DiscountProduct/ProductDisscountCaculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/WEB-INF/classes/TranslationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/WEB-INF/classes/TranslationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/out/artifacts/BaitapUngdungquanlisanpham_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/out/artifacts/Ungdungchuyendoitientedongian_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/out/production/Ungdungchuyendoitientedongian/TranslationServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/out/production/Ungdungchuyendoitientedongian/TranslationServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/src/TranslationServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/src/TranslationServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai11.MVCmodel/Baitap/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bai9.Web/Ungdungchuyendoitientedongian/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../Bai9.Web/Thuchanh/Ungdungchuyendoitientedongian/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-cleancode-refactoring-exercise/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-cleancode-refactoring-method-extraction/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/Báo Cáo Tuần A012I1_Trần Đức Linh.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/Bai7_Abtract_Interface/Thuchanh/Comparaable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/out/production/module02/Bai7_Abtract_Interface/Thuchanh/Comparaable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/Bai7_Abtract_Interface/Thuchanh/ComparableCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/out/production/module02/Bai7_Abtract_Interface/Thuchanh/ComparableCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/Demo/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/out/production/module02/Demo/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/bai11/JavaCollectionFrameWork/baitap/practice/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/out/production/module02/bai11/JavaCollectionFrameWork/baitap/practice/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/bai15/IOTextFile/baitap/CopyFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/out/production/module02/bai15/IOTextFile/baitap/CopyFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/out/production/module02/bai15/IOTextFile/baitap/Writer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai7_Abtract_Interface/Thuchanh/Comparaable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai7_Abtract_Interface/Thuchanh/Comparaable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai7_Abtract_Interface/Thuchanh/ComparableCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai7_Abtract_Interface/Thuchanh/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Baitap/BT_Refactoring" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Baitap/BT_Refactoring" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring01" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring01" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring02" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring02" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring03" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/Bai8/CleanCode_Refactoring/Thuchanh/Refactoring03" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/ConvertString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/ConvertString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/Validators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/commons/Validators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/booking.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/booking.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/customer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/customer.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/employee.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/employee.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/house.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/house.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/room.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/room.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/villa.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/data/villa.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/BirthdayException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/BirthdayException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/EmailException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/EmailException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/GenderException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/GenderException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/IdCardException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/IdCardException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/NameException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/exceptions/NameException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/ExtraService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/ExtraService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Services.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Services.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Villa.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/CaseStudy/models/Villa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/bai11/JavaCollectionFrameWork/baitap/practice/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/bai11/JavaCollectionFrameWork/baitap/practice/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/demo/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/demo/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/ConvertString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/ConvertString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/FileUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/FileUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/commons/StringUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/controller/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/controller/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/controller/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/controller/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/data/product.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/data/product.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Productnhapkhau.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Productnhapkhau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Productxuatkhau.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../module02/src/thithuchanh/models/Productxuatkhau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bootstrap/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../bootstrap/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+  </component>
+  <component name="ProjectId" id="1wrEcKXPDYvhV4WhNNG05lNTkBw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Thuchanh" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c80ba3f5-dc14-44fb-86a2-4d967e82caf5" name="Default Changelist" comment="" />
+      <created>1629208384870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629208384870</updated>
+      <workItem from="1629208386014" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1629208403494">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1629208403494" />
+  </component>
+</project>

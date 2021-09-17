@@ -1,0 +1,17 @@
+
+#header {
+    font-size: large;
+    background-color: white;
+    height: 70px;
+
+}
+#main{
+background-color: lightslategray;
+    height: 550px;
+    width: 1535px;
+}
+#footer{
+    background-color: steelblue;
+    height: 100px;
+    padding: 10px;
+}
